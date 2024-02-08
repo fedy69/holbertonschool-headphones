@@ -15,7 +15,7 @@ The Holberton Headphones web page was developed by sections. These can be previe
 
 
 
-All of the sections contain the respective code in order to support responsiveness to the sizes mentioned at the beginning.
+All of the sections contain the respective code in order to support responsiveness to the sizes mentioned at the beginning .
 
 [Header/Hero Section](https://htmlpreview.github.io/?https://github.com/fedy69/holberton-headphones/master/0-index.html) : 0-index.html / 0-styles.css
 
